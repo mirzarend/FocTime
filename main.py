@@ -5,6 +5,7 @@ import quotes
 
 #Windows
 app = customtkinter.CTk()
+app.after(0, lambda: app.state("zoomed"))
 app.geometry("600x500")
 app.title("FocTime")
 
