@@ -18,6 +18,9 @@ app.after(0, lambda: app.state("zoomed"))
 app.geometry("600x500")
 app.title("FocTime")
 
+#Logo
+app.iconbitmap("img/icon.ico")
+
 #Sidebar
 sidebar = customtkinter.CTkFrame(app, fg_color="#1E1E1E", width=300)
 sidebar.pack_propagate(False)
