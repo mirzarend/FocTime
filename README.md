@@ -1,18 +1,16 @@
-# FocTime V0.2.0
+# FocTime V0.2.1
 
 **Foctime** adalah sebuah aplikasi yang
 bertujuan untuk menganalisa peningkatan produktivitas secara data.
 
 ## Changelog
-### Version 0.2.0 - 2026/06/20
-- **feat:** Menambahkan sistem multi-halaman menggunakan manajemen `pack_forget()`
-- **feat:** Menambahkan Sidebar Navigasi untuk Menu Timer dan Menu Stats
-- **UI/UX:** Layout Centered / Tata letak diatur di tengah layar, Mengubah background
+### Version 0.2.1 - 2026/06/23
+- **feat:** Menambahkan Logo App
+- **feat:** Menambahkan Loading Screen
 
 ## Future Features
 - **Menu Pengaturan** : Bisa mengubah warna background, menampilkan detail dari app.
 - **Memperbaiki Tombol** : Mengganti warna tombol dan tata letaknya
-- **Loading page**
-- **Logo app**
+- **Menambahkan Background** : Menambahkan Background untuk Loading Screen
 
 *aplikasi akan terus berkembang*
